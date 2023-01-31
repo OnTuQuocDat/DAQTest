@@ -15,7 +15,9 @@ END_VAR
 
 //One
 
-//Two]]></ST>
+//Two
+
+//Three]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
       <LineId Id="2" Count="0" />
@@ -23,6 +25,8 @@ END_VAR
       <LineId Id="11" Count="0" />
       <LineId Id="14" Count="0" />
       <LineId Id="13" Count="0" />
+      <LineId Id="16" Count="0" />
+      <LineId Id="15" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
