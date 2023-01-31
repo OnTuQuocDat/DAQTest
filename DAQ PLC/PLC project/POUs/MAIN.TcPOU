@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.9">
+  <POU Name="MAIN" Id="{dd1d77bd-4e25-4335-9864-1fdb214a75d4}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM MAIN
+VAR
+	test : UINT;
+END_VAR
+
+
+//DAQ test
+//fssf
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[//daq test
+
+//One
+
+//Two
+
+//Threee
+
+
+//Four 
+
+//Five
+
+//Six
+
+
+//Seven
+
+//Eight
+
+
+//Nine
+
+//Ten]]></ST>
+    </Implementation>
+    <LineIds Name="MAIN">
+      <LineId Id="2" Count="0" />
+      <LineId Id="12" Count="0" />
+      <LineId Id="11" Count="0" />
+      <LineId Id="14" Count="0" />
+      <LineId Id="13" Count="0" />
+      <LineId Id="44" Count="17" />
+      <LineId Id="43" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>
